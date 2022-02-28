@@ -1,0 +1,5 @@
+- Stop guessing about capacity
+- cost
+- pay only what you use
+- scale easily
+- fast delivery

@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "c35efce4e8fb2892",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f3434db6911da0f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "git/tags.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ed097e421a689fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f65f00ba1597c4f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2615db67d53bb5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4b3e51c73b401f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ec7f782f8932e8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "158948210a5f6c27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5b87a414bf587aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git/tags.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2f3434db6911da0f",
+  "lastOpenFiles": [
+    "git/tags.md",
+    "udacity_devops/lesson 2, Foundational & Computer Service/Security in Cloud.md",
+    "udacity_devops/lesson 1, cloud basics/Cloud Computing.md",
+    "udacity_devops/lesson 1, cloud basics/Cloud Deployment Model.md",
+    "udacity_devops/lesson 1, cloud basics/Cloud products.md",
+    "udacity_devops/lesson 1, cloud basics/Global Infrastructure.md",
+    "udacity_devops/lesson 1, cloud basics/Options - Providers.md",
+    "udacity_devops/lesson 1, cloud basics/Responsibility Model.md",
+    "udacity_devops/some rules.md",
+    "udacity_devops/lesson 2, Foundational & Computer Service/Elastic Beanstalk.md"
+  ]
+}
