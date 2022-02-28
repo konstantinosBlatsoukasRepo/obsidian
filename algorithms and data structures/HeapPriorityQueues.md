@@ -1,6 +1,6 @@
 Heaps are coming in two flavors min heap and max heap
 
-A heap is a bunary tree which the the parent node has always smaller value than the
+A heap is a binary tree which the the parent node has always smaller value than the
 childs.
 
 ```
