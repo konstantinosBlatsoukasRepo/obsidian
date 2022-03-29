@@ -1,0 +1,1 @@
+is a container orchestrator (similar to Docker Swarm)

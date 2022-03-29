@@ -1,0 +1,5 @@
+- Audit AWS account
+- Log ins
+- Services Accessed
+- AWS API calls
+- Logs actions

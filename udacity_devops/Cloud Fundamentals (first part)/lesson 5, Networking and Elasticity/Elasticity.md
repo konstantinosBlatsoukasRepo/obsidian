@@ -1,0 +1,2 @@
+- **Vertically**, Scale up, you are adding more RAM, CPU, IO etc,
+- **Horizontally**, Scale out, example, adding more servers

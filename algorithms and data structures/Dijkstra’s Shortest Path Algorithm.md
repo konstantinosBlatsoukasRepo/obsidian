@@ -12,7 +12,5 @@
 	6. add node to visited nodes
 7. till all nodes visited 
 
-
 [youtube](https://www.youtube.com/watch?v=pVfj6mxhdMw)
-
 [implementation with priority queue](https://www.youtube.com/watch?v=pSqmAO-m7Lk)

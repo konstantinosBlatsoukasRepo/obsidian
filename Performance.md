@@ -1,0 +1,4 @@
+- throughout
+- latency
+- memory footprint
+

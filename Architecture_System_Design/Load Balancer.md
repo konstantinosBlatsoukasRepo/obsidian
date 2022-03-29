@@ -1,0 +1,1 @@
+Load Balancer: a load distributor that stands in front of th eweb servers

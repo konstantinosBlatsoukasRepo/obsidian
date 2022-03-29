@@ -11,9 +11,6 @@ Delivers IT resources:
 - analytics, AI, AR
 - Security services for data and apps
 
-
-
-
 All these benefits lead to 
 
 - much lower costs

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git/tags.md",
+            "file": "frameworks/spring/testing/mock_method_of_the_same_class_spy.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 598
   },
   "right": {
     "id": "8ec7f782f8932e8d",
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/tags.md",
+                "file": "frameworks/spring/testing/mock_method_of_the_same_class_spy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -84,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "2f3434db6911da0f",
   "lastOpenFiles": [
-    "git/tags.md",
-    "udacity_devops/lesson 2, Foundational & Computer Service/Security in Cloud.md",
-    "udacity_devops/lesson 1, cloud basics/Cloud Computing.md",
-    "udacity_devops/lesson 1, cloud basics/Cloud Deployment Model.md",
-    "udacity_devops/lesson 1, cloud basics/Cloud products.md",
-    "udacity_devops/lesson 1, cloud basics/Global Infrastructure.md",
-    "udacity_devops/lesson 1, cloud basics/Options - Providers.md",
-    "udacity_devops/lesson 1, cloud basics/Responsibility Model.md",
-    "udacity_devops/some rules.md",
-    "udacity_devops/lesson 2, Foundational & Computer Service/Elastic Beanstalk.md"
+    "frameworks/spring/testing/mock_method_of_the_same_class_spy.md",
+    "frameworks/spring/persistence/jpa_one_to_many.md",
+    "udacity_devops/Deploy Infrastructure as Code (second part)/cloud_formation_launch_configuration.md",
+    "udacity_devops/Deploy Infrastructure as Code (second part)/cloud_formation_auto_scaling_group.md",
+    "udacity_devops/Deploy Infrastructure as Code (second part)/Untitled.md",
+    "udacity_devops/Deploy Infrastructure as Code (second part)/security_groups.md",
+    "udacity_devops/Deploy Infrastructure as Code (second part)/cloud_formation_create_subnet.md",
+    "udacity_devops/Deploy Infrastructure as Code (second part)/cloud_formation_attach_internet_gateway.md",
+    "udacity_devops/Deploy Infrastructure as Code (second part)/cloud_formation_create_internet_gateway.md",
+    "udacity_devops/Deploy Infrastructure as Code (second part)/cloud_formation_create_vpc.md"
   ]
 }
