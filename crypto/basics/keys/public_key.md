@@ -1,0 +1,1 @@
+liek SWIFT or IBAN

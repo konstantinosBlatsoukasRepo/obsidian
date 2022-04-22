@@ -1,0 +1,2 @@
+	coinbase.com
+	gemini.com

@@ -15,10 +15,7 @@ public class Project {
 
 ```
 
-  
-
 ```java
-
 @Entity
 
 public class Employee {

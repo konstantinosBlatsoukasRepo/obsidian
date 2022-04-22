@@ -1,0 +1,1 @@
+a hash of all transactions in a block of transactions

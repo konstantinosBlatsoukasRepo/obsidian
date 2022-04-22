@@ -1,0 +1,9 @@
+- non deterministic wallets
+- deterministic wallets
+- hierarchical deterministic wallets
+- brain wallets
+- paper wallets
+- hardware wallets
+- online wallets
+- mobile wallets
+- 

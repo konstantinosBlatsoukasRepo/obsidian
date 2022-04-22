@@ -1,0 +1,1 @@
+money that are not backed from any commodity, like gold or silver

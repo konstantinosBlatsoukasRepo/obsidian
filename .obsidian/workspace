@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "frameworks/spring/testing/mock_method_of_the_same_class_spy.md",
+            "file": "git/tags.md",
             "mode": "source",
             "source": false
           }
@@ -69,12 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frameworks/spring/testing/mock_method_of_the_same_class_spy.md",
-                "collapseAll": false,
+                "file": "git/tags.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
+                "showSearch": true,
+                "searchQuery": "transactional",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -84,19 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.266845703125
   },
   "active": "2f3434db6911da0f",
   "lastOpenFiles": [
-    "frameworks/spring/testing/mock_method_of_the_same_class_spy.md",
-    "frameworks/spring/persistence/jpa_one_to_many.md",
-    "udacity_devops/Deploy Infrastructure as Code (second part)/cloud_formation_launch_configuration.md",
-    "udacity_devops/Deploy Infrastructure as Code (second part)/cloud_formation_auto_scaling_group.md",
-    "udacity_devops/Deploy Infrastructure as Code (second part)/Untitled.md",
-    "udacity_devops/Deploy Infrastructure as Code (second part)/security_groups.md",
-    "udacity_devops/Deploy Infrastructure as Code (second part)/cloud_formation_create_subnet.md",
-    "udacity_devops/Deploy Infrastructure as Code (second part)/cloud_formation_attach_internet_gateway.md",
-    "udacity_devops/Deploy Infrastructure as Code (second part)/cloud_formation_create_internet_gateway.md",
-    "udacity_devops/Deploy Infrastructure as Code (second part)/cloud_formation_create_vpc.md"
+    "git/tags.md",
+    "git/branches.md",
+    "Programming/java/catching_multiple_exceptions.md",
+    "Programming/java/static_class.md",
+    "Programming/python/substring_in_string.md",
+    "Programming/python/index_and_value_from_list.md",
+    "Programming/python/int_to_string.md",
+    "Programming/python/reverse_string.md",
+    "Programming/python/take_last_chars.md",
+    "Security/Definition authentication.md"
   ]
 }

@@ -1,0 +1,2 @@
+- uses the [[factory design pattern]] 
+- returns a new object with it's own state

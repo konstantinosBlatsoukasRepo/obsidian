@@ -1,0 +1,1 @@
+is the process which new blocks are added to the blockchain
