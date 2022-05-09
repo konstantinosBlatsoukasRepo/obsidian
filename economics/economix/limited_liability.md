@@ -1,0 +1,1 @@
+in case that the bussiness fails, the stockholders can lose their money

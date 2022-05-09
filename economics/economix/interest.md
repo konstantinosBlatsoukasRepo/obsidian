@@ -1,0 +1,1 @@
+capitalists don't need to invest their own money-they can borrow somene else's money

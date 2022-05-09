@@ -1,0 +1,1 @@
+[[capital]] is the means of production

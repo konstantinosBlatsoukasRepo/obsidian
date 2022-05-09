@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git/tags.md",
+            "file": "computational_thinking.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/tags.md",
+                "file": "computational_thinking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "2f3434db6911da0f",
   "lastOpenFiles": [
-    "git/tags.md",
-    "git/branches.md",
-    "Programming/java/catching_multiple_exceptions.md",
-    "Programming/java/static_class.md",
-    "Programming/python/substring_in_string.md",
-    "Programming/python/index_and_value_from_list.md",
-    "Programming/python/int_to_string.md",
-    "Programming/python/reverse_string.md",
-    "Programming/python/take_last_chars.md",
-    "Security/Definition authentication.md"
+    "computational_thinking.md",
+    "Ideal CI CD Pipeline.md",
+    "Performance.md",
+    "transactional.md",
+    "logic/demorgans_law.md",
+    "UI/bootstrap grid system.md",
+    "economics/economix/groos_domestic_product.md",
+    "economics/economix/inflation.md",
+    "economics/economix/fed.md",
+    "english/expressions.md"
   ]
 }

@@ -1,0 +1,1 @@
+restricts the inheritance

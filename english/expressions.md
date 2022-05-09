@@ -1,0 +1,1 @@
+but the flip side of .....(concetrated wealth is poverty)

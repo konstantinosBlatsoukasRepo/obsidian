@@ -2,7 +2,7 @@
 
 
 
-total columns mus tbe always 12!!!
+total columns must be always 12!!!
 
 container -> rows -> columns
 

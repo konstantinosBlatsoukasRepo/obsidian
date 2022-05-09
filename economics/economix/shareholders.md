@@ -1,0 +1,1 @@
+shareholders elect directors who direct managers
