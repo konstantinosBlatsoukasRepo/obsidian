@@ -1,0 +1,2 @@
+- plain username and password
+- you have to send usrname and pwd in every request

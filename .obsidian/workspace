@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computational_thinking.md",
+            "file": "security/spring/acces_desicion_manager.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computational_thinking.md",
+                "file": "security/spring/acces_desicion_manager.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "2f3434db6911da0f",
   "lastOpenFiles": [
-    "computational_thinking.md",
-    "Ideal CI CD Pipeline.md",
-    "Performance.md",
-    "transactional.md",
-    "logic/demorgans_law.md",
-    "UI/bootstrap grid system.md",
-    "economics/economix/groos_domestic_product.md",
-    "economics/economix/inflation.md",
-    "economics/economix/fed.md",
-    "english/expressions.md"
+    "security/spring/acces_desicion_manager.md",
+    "security/spring/ant_matchers.md",
+    "security/spring/basic_auth.md",
+    "security/spring/what_we_need_to_know_about users.md",
+    "security/spring.md",
+    "security/spring.md",
+    "security/spring_security.md",
+    "security/basic_auth.md",
+    "economics/economix/GDP.md",
+    "economics/economix/gross_domestic_product.md"
   ]
 }

@@ -1,0 +1,4 @@
+- username
+- password
+- roles
+- permissions/authorities

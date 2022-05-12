@@ -1,0 +1,5 @@
+```java
+
+@Configuration
+@EnableWebSecurity
+```
