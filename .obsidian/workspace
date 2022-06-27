@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "security/spring/acces_desicion_manager.md",
+            "file": "programming/python/data_structures/queue.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 598
+    "width": 512.4999980926514
   },
   "right": {
     "id": "8ec7f782f8932e8d",
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "security/spring/acces_desicion_manager.md",
+                "file": "programming/python/data_structures/queue.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "transactional",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -88,15 +88,15 @@
   },
   "active": "2f3434db6911da0f",
   "lastOpenFiles": [
-    "security/spring/acces_desicion_manager.md",
-    "security/spring/ant_matchers.md",
-    "security/spring/basic_auth.md",
-    "security/spring/what_we_need_to_know_about users.md",
-    "security/spring.md",
-    "security/spring.md",
-    "security/spring_security.md",
-    "security/basic_auth.md",
-    "economics/economix/GDP.md",
-    "economics/economix/gross_domestic_product.md"
+    "programming/python/data_structures/queue.md",
+    "programming/python/min_max_ints.md",
+    "english/conjunctions.md",
+    "english/verbs_and_conjunctions.md",
+    "english/tenses.md",
+    "english/expressions.md",
+    "git/tags.md",
+    "git/branches.md",
+    "git/intergrating_changes_methods.md",
+    "git/revert_changes.md"
   ]
 }

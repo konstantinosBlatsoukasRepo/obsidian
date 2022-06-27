@@ -1,7 +1,9 @@
 
 ## the algorithm
 
-1. Let distance of start node to staret node = 0
+- algorithm limitation: weights of all edges are non-negative
+
+1. Let distance of start node to be node = 0
 2. Let all otehr distances from the start to be infinity
 3. Repeat
 	1. Visit the node with the smallest distance from the start node

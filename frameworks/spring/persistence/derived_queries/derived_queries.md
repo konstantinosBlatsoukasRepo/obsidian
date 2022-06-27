@@ -1,0 +1,1 @@
+https://thorben-janssen.com/ultimate-guide-derived-queries-with-spring-data-jpa/

@@ -12,3 +12,4 @@ ALT + 1, 2, ,3 4, ....: select for edit all occurences
 CTRL + K -> M .: change language mode
 CTRL + \ -> open same file in separrate group
 CTRL + k ++  CTRL + \  -> open same file in same group
+CTLR + SHIFT + O: list all js methods
