@@ -13,11 +13,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2022-11-04 08.46.13.excalidraw.md"
+                "file": "Excalidraw/hld_vs_lld.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "3b2fb45f14562d17",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/microservice_architecture.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-11-04 08.46.13.excalidraw.md",
+                "file": "Excalidraw/microservice_architecture.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,19 +101,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.266845703125
+    "width": 200
   },
-  "active": "a2615db67d53bb5c",
+  "active": "3b2fb45f14562d17",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-11-04 08.46.56.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-04 08.47.33.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-04 08.48.18.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-04 08.48.18.excalidraw.png",
-    "url_casing_convention.md",
-    "computational_thinking.md",
-    "Ideal CI CD Pipeline.md",
-    "Performance.md",
-    "transactional.md",
-    "Excalidraw/Drawing 2022-11-04 08.46.13.excalidraw.md"
+    "Excalidraw/modularized_monolith.excalidraw.md",
+    "Excalidraw/monolith.excalidraw.md",
+    "Excalidraw/microservice_architecture.excalidraw.md",
+    "Excalidraw/Untitled.md",
+    "Architecture_System_Design/leetcode/application architectures.md",
+    "Excalidraw/application_archi.md",
+    "Excalidraw/hld_vs_lld.excalidraw.md",
+    "Architecture_System_Design/leetcode/intro to low level design.md",
+    "Excalidraw/system_design_overview.excalidraw.md",
+    "Architecture_System_Design/leetcode/intro to high level design.md"
   ]
 }
