@@ -8,7 +8,7 @@ git tag <tagname>
 
 - delete a tag
 ```
-gti tag -d <tag>
+git tag -d <tag>
 ```
 
 - push a specific tag

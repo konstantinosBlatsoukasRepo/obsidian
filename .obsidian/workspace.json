@@ -4,26 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "d90b4442fde6480a",
+        "id": "1f5b31c423133036",
         "type": "tabs",
         "children": [
           {
-            "id": "67fbb6475b85a83c",
+            "id": "950436f33263e160",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/hld_vs_lld.excalidraw.md"
+                "file": "frameworks/react/typescript.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "3b2fb45f14562d17",
+            "id": "1afb38b981446cb7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/microservice_architecture.excalidraw.md"
+                "file": "frameworks/react/basics/hooks.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -70,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 400.5
   },
   "right": {
     "id": "8ec7f782f8932e8d",
@@ -86,9 +90,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/microservice_architecture.excalidraw.md",
+                "file": "frameworks/react/basics/hooks.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "transactional",
@@ -103,17 +107,47 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "3b2fb45f14562d17",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "1afb38b981446cb7",
   "lastOpenFiles": [
-    "Excalidraw/modularized_monolith.excalidraw.md",
-    "Excalidraw/monolith.excalidraw.md",
-    "Excalidraw/microservice_architecture.excalidraw.md",
-    "Excalidraw/Untitled.md",
-    "Architecture_System_Design/leetcode/application architectures.md",
-    "Excalidraw/application_archi.md",
-    "Excalidraw/hld_vs_lld.excalidraw.md",
-    "Architecture_System_Design/leetcode/intro to low level design.md",
-    "Excalidraw/system_design_overview.excalidraw.md",
-    "Architecture_System_Design/leetcode/intro to high level design.md"
+    "frameworks/react/typescript.md",
+    "frameworks/react/basics/hooks.md",
+    "Untitled.md",
+    "frameworks/react/basics/use state hook.md",
+    "frameworks/react/basics/react.md",
+    "frameworks/react/basics/basics.md",
+    "frameworks/react/basics/function component.md",
+    "frameworks/react/basics",
+    "frameworks/react/local_installation/local_dev_configuration.md",
+    "UI/rendering.md",
+    "UI/localisation.md",
+    "UI/internationalisation.md",
+    "UI/bootstrap grid system.md",
+    "frameworks/react/local_installation/install without create-react-app.md",
+    "frameworks/react/local_installation/with-create-react-app.md",
+    "frameworks/react/local_installation",
+    "frameworks/react/basics/one way data flow and behaviour.md",
+    "programming/javascript/arrow function that returns nothing.md",
+    "programming/javascript/prefer_map_instead_of_switch.md",
+    "frameworks/react/class_components",
+    "programming/javascript/js_feats.md",
+    "git/tags.md",
+    "frameworks/react",
+    "frameworks/angularjs/service_with_factory.md",
+    "frameworks/angularjs/service_responsibilty.md",
+    "frameworks/angularjs/controllers_responsibilites.md",
+    "git/rebase.md",
+    "git/pull.md",
+    "frameworks/spring/persistence/transactional/transaction_propagation.md",
+    "frameworks/spring/persistence/transactional/transactional_on_class_level.md"
   ]
 }

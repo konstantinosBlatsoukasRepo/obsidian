@@ -2,8 +2,7 @@
 git checkout expiriment
 git rebase master
 
-
-git checkotu master
+git checkout master
 git rebase  expiriment
 ```
 
